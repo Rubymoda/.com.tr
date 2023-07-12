@@ -1,1 +1,1 @@
-# .com.tr
+#rubymoda.com.tr
